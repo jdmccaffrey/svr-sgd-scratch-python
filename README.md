@@ -1,7 +1,7 @@
 # svr-sgd-scratch-python
 Support vector regression with SGD training from scratch using Python
 
-This implementation of support vector regression uses stochastic gradient descent (SGD) for traing instead of the more common sequential minimal optimization (SMO) algorithm.
+This implementation of support vector regression uses stochastic gradient descent (SGD) for training instead of the more common sequential minimal optimization (SMO) algorithm.
 
 SGD training for SVR is much, much simpler to implement than SMO, but SGD training is slower than SMO training.
 
